@@ -1,7 +1,9 @@
+//Defining colour constants to chip pins
 #define RED 3 
 #define GREEN 5
 #define BLUE 6
 
+//Assigning default pin modes and type
 void setup(){
   pinMode(RED, OUTPUT);
   pinMode(GREEN, OUTPUT);
@@ -22,7 +24,7 @@ void loop()
   green = 255;
   blue = 0;
 
-  //Slowly turns green light into blue light. 
+  //Slowly turns green light into blue light
   for (int i = 0; i < 255; i += 1){
       green --;
       blue ++; 
