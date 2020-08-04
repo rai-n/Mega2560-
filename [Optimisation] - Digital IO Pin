@@ -1,4 +1,4 @@
-//Example 1 : Power save
+//This power saving mechanism is done by setting all unused ports to LOW. 
 
 void setup() {
   
