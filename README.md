@@ -1,6 +1,8 @@
 # Mega2560-Microcontroller Builds
 
-Documentation of work done on the Elegoo Mega 2560 microcontroller board. Components sourced by [Elegoo](https://www.elegoo.com/).
+Documentation of work done on the Elegoo Mega 2560 microcontroller board. 
+Components sourced by [Elegoo](https://www.elegoo.com/).
+Few of the project ideas are inspired and built upon tutorials by [Ricardo Moreno](https://www.youtube.com/channel/UCbDCjdszaIdDOyXNRgMlgIg)
 
 ## Installation
 
