@@ -4,6 +4,13 @@
 * Components sourced by [Elegoo](https://www.elegoo.com/).
 * Few of the project ideas are inspired and built upon tutorials by [Ricardo Moreno](https://www.youtube.com/channel/UCbDCjdszaIdDOyXNRgMlgIg)
 
+## Project Guide
+
+* [S] - Small Project
+* [M] - Medium Project
+
+Large/ Complex projects will be stored in its own repository. 
+
 ## Installation
 
 Download the [Arduino IDE](https://www.arduino.cc/en/main/software/) to install run component demonstration, or projects. 
